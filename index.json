@@ -1,0 +1,182 @@
+[
+  {
+    "code": "AL",
+    "name": "Albania",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "hasBus": true,
+    "hasTrain": false
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "hasBus": true,
+    "hasTrain": false
+  }
+]
