@@ -1,0 +1,42 @@
+[
+  {
+    "id": 29202,
+    "name": "Schaan-Vaduz",
+    "name_norm": "Schaan-Vaduz",
+    "uic": NaN,
+    "latitude": 47.168297,
+    "longitude": 9.5078,
+    "parent_station_id": NaN,
+    "country": "LI",
+    "time_zone": "Europe/Vaduz",
+    "is_city": false,
+    "is_main_station": false,
+    "is_airport": false,
+    "entur_id": NaN,
+    "entur_is_enabled": false,
+    "trenord_id": NaN,
+    "cercanias_id": NaN,
+    "cercanias_hub_id": NaN,
+    "cercanias_is_enabled": false
+  },
+  {
+    "id": 34537,
+    "name": "Nendeln Bahnhof",
+    "name_norm": "Nendeln Bahnhof",
+    "uic": NaN,
+    "latitude": 47.200314,
+    "longitude": 9.541702,
+    "parent_station_id": NaN,
+    "country": "LI",
+    "time_zone": "Europe/Vaduz",
+    "is_city": false,
+    "is_main_station": false,
+    "is_airport": false,
+    "entur_id": NaN,
+    "entur_is_enabled": false,
+    "trenord_id": NaN,
+    "cercanias_id": NaN,
+    "cercanias_hub_id": NaN,
+    "cercanias_is_enabled": false
+  }
+]
