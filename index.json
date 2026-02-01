@@ -3,180 +3,180 @@
     "code": "AL",
     "name": "Albania",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "AT",
     "name": "Austria",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "BE",
     "name": "Belgium",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "BA",
     "name": "Bosnia",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "BG",
     "name": "Bulgaria",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "HR",
     "name": "Croatia",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "CZ",
     "name": "Czech Republic",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "DK",
     "name": "Denmark",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "FI",
     "name": "Finland",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "FR",
     "name": "France",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "DE",
     "name": "Germany",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "GR",
     "name": "Greece",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "HU",
     "name": "Hungary",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "IE",
     "name": "Ireland",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "IT",
     "name": "Italy",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "LU",
     "name": "Luxembourg",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "ME",
     "name": "Montenegro",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "NL",
     "name": "Netherlands",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "MK",
     "name": "North Macedonia",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "NO",
     "name": "Norway",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "PL",
     "name": "Poland",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "PT",
     "name": "Portugal",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "RO",
     "name": "Romania",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "RS",
     "name": "Serbia",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "SK",
     "name": "Slovakia",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "SI",
     "name": "Slovenia",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "ES",
     "name": "Spain",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "SE",
     "name": "Sweden",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "CH",
     "name": "Switzerland",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   },
   {
     "code": "GB",
     "name": "United Kingdom",
     "hasBus": true,
-    "hasTrain": false
+    "hasTrain": true
   }
 ]
